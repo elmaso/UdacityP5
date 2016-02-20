@@ -8,5 +8,6 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="empty_list">No news for you my friend</string>
 
 </resources>
